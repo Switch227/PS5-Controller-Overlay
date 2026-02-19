@@ -1,4 +1,4 @@
-/*BEGIN PS4 Controller Styling*/
+/*BEGIN PS5 Controller Styling*/
 .controller.ds4 {
     background: url(base.png);
     height: 598px;
@@ -275,5 +275,6 @@ background-position: 0 -70px;
 .ds4.half {
     margin-top: -300px;
 }
+
 
 /*END PS4 Controller Styling*/
