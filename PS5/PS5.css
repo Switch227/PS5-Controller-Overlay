@@ -22,7 +22,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(Trigger_Pressed.png);
+    background: url(https://github.com/Oekn5w/controllerOverlay/blob/a0c926f7a596cdf093cf983665a978000b69306b/PS5/Trigger_Pressed.png);
     opacity: 0;
 }
 
@@ -86,7 +86,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(Home.png) no-repeat center;
+    background: url(https://github.com/Oekn5w/controllerOverlay/blob/a0c926f7a596cdf093cf983665a978000b69306b/PS5/Home.png) no-repeat center;
 }
 
 .ds4 .p0{
@@ -110,7 +110,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(Select.png);
+    background: url(https://github.com/Oekn5w/controllerOverlay/blob/a0c926f7a596cdf093cf983665a978000b69306b/PS5/Select.png);
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(FaceButtons.png);
+    background: url(Face.png);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(Sticks.png);
+    background: url(Stick.png);
     height: 94px;
     width: 94px;
 }
@@ -285,6 +285,7 @@ background-position: 0 -70px;
 }
 
 /*END PS4 White Controller Styling*/
+
 
 
 
