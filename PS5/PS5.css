@@ -1,7 +1,7 @@
 /*BEGIN PS5 Controller Styling*/
 
 .controller.ds4 {
-    background: url(Base.png);
+    background: url(base.png);
 	height: 713px;
     width: 903px;
     position: absolute;
@@ -231,5 +231,6 @@
 }
 
 /*END PS5 Controller Styling*/
+
 
 
